@@ -1,0 +1,11 @@
+mode: set
+github.com/lkk223303/bookings/cmd/web/main.go:23.13,26.16 2 0
+github.com/lkk223303/bookings/cmd/web/main.go:30.2,38.16 4 0
+github.com/lkk223303/bookings/cmd/web/main.go:26.16,28.3 1 0
+github.com/lkk223303/bookings/cmd/web/main.go:38.16,40.3 1 0
+github.com/lkk223303/bookings/cmd/web/main.go:43.18,59.16 10 1
+github.com/lkk223303/bookings/cmd/web/main.go:64.2,70.12 6 1
+github.com/lkk223303/bookings/cmd/web/main.go:59.16,62.3 2 0
+github.com/lkk223303/bookings/cmd/web/middleware.go:10.45,21.2 3 1
+github.com/lkk223303/bookings/cmd/web/middleware.go:24.50,26.2 1 1
+github.com/lkk223303/bookings/cmd/web/routes.go:13.49,38.2 18 1
