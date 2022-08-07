@@ -9,6 +9,8 @@
 
 .notie-container {
     box-shadow: none;
+    z-index: 9999;
+
 }
 
 .datepicker {
